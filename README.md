@@ -1,2 +1,2 @@
-# DevOpasHackathon
+# DevOpsHackathon
 DevOps Hackathon
